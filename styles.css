@@ -1,11 +1,28 @@
 body {
-    background-color: lightpink;
+    background-color:pink;
     font-family: Arial, Helvetica, sans-serif;
 }
 h1{
     text-align: center;
-    color: darksalmon;
+    color:white;
 }
 .about{
-    
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.skills{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.projects{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.contact{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
